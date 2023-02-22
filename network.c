@@ -1,4 +1,3 @@
-//code taken from https://github.com/lizrice/ebpf-networking
 #include "network.h"
 
 #include <bcc/proto.h>
